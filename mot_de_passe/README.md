@@ -55,6 +55,12 @@ Chaque fonctionnalité vise à renforcer la sécurité des informations sensible
    python main.py
    ```
 
+4. Lancez les tests unitaires
+
+   ```
+   python Test.py
+   ```
+
 ## Utilisation
 
 Pour utiliser le programme, suivez ces étapes :
