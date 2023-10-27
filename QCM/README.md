@@ -46,6 +46,12 @@ Les principales fonctionnalités de l'application QCM (Quiz à Choix Multiples) 
    python main.py
    ```
 
+4. Lancez les tests unitaires
+
+   ```
+   python Test.py
+   ```
+
 ## Utilisation
 
 1. Lancez le programme en exécutant le fichier `main.py` pour débuter le QCM.
